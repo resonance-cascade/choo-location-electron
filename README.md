@@ -6,7 +6,7 @@ A choo subscription that fixes routing in electron when loading a url from disk.
 
 ### Why?
 
-When creating an electron browser window and loading the view from disk, `choo`'s router doesn't work out of the box due to the format of the resulting `file://` url format.  `choo-location-electron` provides a subscription that properly processes urls in `href` attributes of `a` tags so that they work with [sheet-router](https://github.com/yoshuawuyts/sheet-router) properly.
+When creating an electron browser window and loading the view from disk, `choo`'s router doesn't work out of the box due to the format of the resulting `file://` url.  `choo-location-electron` provides a subscription that properly processes urls in `href` attributes of `a` tags so that they work with [sheet-router](https://github.com/yoshuawuyts/sheet-router) properly.
 
 ### Example
 
