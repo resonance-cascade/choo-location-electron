@@ -20,6 +20,8 @@ const tree = app.start({ href: false }) //REQUIRED SETTINGS
 document.body.appendChild(tree)
 ```
 
+Note: Setting `href: false` is required in order to properly intercept click events on links.
+
 ## See also
 
 - [sethvincent/adventuretron/app/models/location.js](https://github.com/sethvincent/adventuretron/blob/c09a20cffb09650ce11f0195c150aaba13a9f45b/app/models/location.js#L25)
