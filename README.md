@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/bcomnes/choo-location-electron.svg?branch=master)](https://travis-ci.org/bcomnes/choo-location-electron)
 
-A choo subscription that fixes routing in electron when loading a url from disk.
+A [choo](https://github.com/yoshuawuyts/choo) subscription that fixes routing in electron when loading a url from disk.
 
 ### Why?
 
