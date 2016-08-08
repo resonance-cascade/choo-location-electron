@@ -1,0 +1,31 @@
+{
+  "name": "choo-location-electron",
+  "version": "1.0.0",
+  "description": "A choo subscription that fixes routing in electron ",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard | snazzy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bcomnes/choo-location-electron.git"
+  },
+  "keywords": [
+    "choo"
+  ],
+  "author": "sethvincent",
+  "contributors": [
+    "Bret Comnes <bcomnes@gmail.com> (http://bret.io)",
+    "Nate Goldman <ungoldman@gmail.com> (http://ungoldman.com)",
+    "Seth Vincent <sethvincent@gmail.com> (http://sethvincent.com)"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bcomnes/choo-location-electron/issues"
+  },
+  "homepage": "https://github.com/bcomnes/choo-location-electron#readme",
+  "devDependencies": {
+    "snazzy": "^4.0.1",
+    "standard": "^7.1.2"
+  }
+}
