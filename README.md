@@ -1,6 +1,6 @@
 # choo-location-electron
 
-[![Build Status](https://travis-ci.org/bcomnes/choo-location-electron.svg?branch=master)](https://travis-ci.org/bcomnes/choo-location-electron)
+[![Build Status](https://travis-ci.org/hypermodules/choo-location-electron.svg?branch=master)](https://travis-ci.org/hypermodules/choo-location-electron)
 
 A [choo](https://github.com/yoshuawuyts/choo) subscription that fixes routing in electron when loading a url from disk.
 
