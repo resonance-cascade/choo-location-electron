@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bcomnes/choo-location-electron.git"
+    "url": "git+https://github.com/hypermodules/choo-location-electron.git"
   },
   "keywords": [
     "choo"
@@ -21,9 +21,9 @@
   ],
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bcomnes/choo-location-electron/issues"
+    "url": "https://github.com/hypermodules/choo-location-electron/issues"
   },
-  "homepage": "https://github.com/bcomnes/choo-location-electron#readme",
+  "homepage": "https://github.com/hypermodules/choo-location-electron#readme",
   "devDependencies": {
     "snazzy": "^4.0.1",
     "standard": "^7.1.2"
