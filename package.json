@@ -27,5 +27,8 @@
   "devDependencies": {
     "snazzy": "^5.0.0",
     "standard": "^8.0.0"
+  },
+  "peerDependencies": {
+    "electron": "~1.0"
   }
 }
