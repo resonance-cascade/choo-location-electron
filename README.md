@@ -12,7 +12,7 @@ When creating an electron browser window and loading the view from disk, `choo`'
 
 ```js
 const choo = require('choo')
-const location = require('choo-location-electron')
+const location = require('choo-location-electron')({ openExternal: true })
 const app = choo()
 app.model(location)
 
@@ -23,6 +23,22 @@ document.body.appendChild(tree)
 ```
 
 Note: Setting `href: false` is required in order to properly intercept click events on links.
+
+### API
+
+#### `var location = require('choo-location-electron')([opts])`
+
+Return a choo subscription that properly handles internal and optionally external links in electron.
+
+Default options:
+
+```js
+{
+  openExternal: false
+}
+```
+
+- `openExternal` (Optional Boolean): intercept URLs and open them in a web browser using `require('electron').shell.openExternal` (see [electron.atom.io/docs/api/shell/#shellopenexternalurl-options](http://electron.atom.io/docs/api/shell/#shellopenexternalurl-options)).
 
 ## See also
 
