@@ -29,6 +29,6 @@
     "standard": "^8.0.0"
   },
   "peerDependencies": {
-    "electron": "~1.0"
+    "electron": "~1.4.2"
   }
 }
