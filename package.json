@@ -1,6 +1,6 @@
 {
   "name": "choo-location-electron",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "A choo subscription that fixes routing in electron ",
   "main": "index.js",
   "scripts": {
