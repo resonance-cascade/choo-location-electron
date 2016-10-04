@@ -6,6 +6,8 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 
 ## [2.0.1](https://github.com/hypermodules/choo-location-electron/releases/v2.0.1)
 
+- use more specific semver range for electron peer dependency
+
 [view diff](https://github.com/hypermodules/choo-location-electron/compare/v2.0.0...v2.0.1)
 
 - [[`650878923d`](https://github.com/hypermodules/choo-location-electron/commit/650878923d)] - 2.0.1 (Bret Comnes)
@@ -14,6 +16,14 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 - [[`1d2cf6a67a`](https://github.com/hypermodules/choo-location-electron/commit/1d2cf6a67a)] - chore(package): update electron to version 1.4.2 (greenkeeperio-bot)
 
 ## [2.0.0](https://github.com/hypermodules/choo-location-electron/releases/v2.0.0)
+
+### Added
+
+- add `openExternal` option to intercept URLs and open them in an external web browser
+
+### Breaking Changes
+
+- module now exports a factory function instead of an object
 
 [view diff](https://github.com/hypermodules/choo-location-electron/compare/v1.0.1...v2.0.0)
 
@@ -30,6 +40,8 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 
 ## [1.0.1](https://github.com/hypermodules/choo-location-electron/releases/v1.0.1)
 
+- update repo URL to reflect org change
+
 [view diff](https://github.com/hypermodules/choo-location-electron/compare/v1.0.0...v1.0.1)
 
 - [[`efeb707aa3`](https://github.com/hypermodules/choo-location-electron/commit/efeb707aa3)] - 1.0.1 (Bret Comnes)
@@ -39,6 +51,8 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 - [[`259633a97b`](https://github.com/hypermodules/choo-location-electron/commit/259633a97b)] - Grammar (Bret Comnes)
 
 ## [1.0.0](https://github.com/hypermodules/choo-location-electron/releases/v1.0.0)
+
+- initial release
 
 - [[`5a28493e6a`](https://github.com/hypermodules/choo-location-electron/commit/5a28493e6a)] - add travis badge (Bret Comnes)
 - [[`3042c02fec`](https://github.com/hypermodules/choo-location-electron/commit/3042c02fec)] - Update README.md (Bret Comnes)
