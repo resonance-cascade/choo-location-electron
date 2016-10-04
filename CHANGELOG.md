@@ -6,11 +6,13 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 
 ## [2.0.1](https://github.com/hypermodules/choo-location-electron/releases/v2.0.1)
 
+[view diff](https://github.com/hypermodules/choo-location-electron/compare/v2.0.0...v2.0.1)
+
 ### Changed
 
 - use more specific semver range for electron peer dependency
 
-[view diff](https://github.com/hypermodules/choo-location-electron/compare/v2.0.0...v2.0.1)
+### Commits
 
 - [[`650878923d`](https://github.com/hypermodules/choo-location-electron/commit/650878923d)] - 2.0.1 (Bret Comnes)
 - [[`0614d7a866`](https://github.com/hypermodules/choo-location-electron/commit/0614d7a866)] - Merge pull request #5 from hypermodules/greenkeeper-electron-1.4.2 (Bret Comnes)
@@ -18,6 +20,8 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 - [[`1d2cf6a67a`](https://github.com/hypermodules/choo-location-electron/commit/1d2cf6a67a)] - chore(package): update electron to version 1.4.2 (greenkeeperio-bot)
 
 ## [2.0.0](https://github.com/hypermodules/choo-location-electron/releases/v2.0.0)
+
+[view diff](https://github.com/hypermodules/choo-location-electron/compare/v1.0.1...v2.0.0)
 
 ### Added
 
@@ -27,7 +31,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 
 - module now exports a factory function instead of an object
 
-[view diff](https://github.com/hypermodules/choo-location-electron/compare/v1.0.1...v2.0.0)
+### Commits
 
 - [[`e4f83cde2b`](https://github.com/hypermodules/choo-location-electron/commit/e4f83cde2b)] - 2.0.0 (Bret Comnes)
 - [[`182f179375`](https://github.com/hypermodules/choo-location-electron/commit/182f179375)] - update readme (Bret Comnes)
@@ -42,11 +46,13 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 
 ## [1.0.1](https://github.com/hypermodules/choo-location-electron/releases/v1.0.1)
 
+[view diff](https://github.com/hypermodules/choo-location-electron/compare/v1.0.0...v1.0.1)
+
 ### Changed
 
 - update repo URL to reflect org change
 
-[view diff](https://github.com/hypermodules/choo-location-electron/compare/v1.0.0...v1.0.1)
+### Commits
 
 - [[`efeb707aa3`](https://github.com/hypermodules/choo-location-electron/commit/efeb707aa3)] - 1.0.1 (Bret Comnes)
 - [[`8942ba1aab`](https://github.com/hypermodules/choo-location-electron/commit/8942ba1aab)] - update repo links (Bret Comnes)
@@ -56,7 +62,11 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 
 ## [1.0.0](https://github.com/hypermodules/choo-location-electron/releases/v1.0.0)
 
+### Added
+
 - initial release
+
+### Commits
 
 - [[`5a28493e6a`](https://github.com/hypermodules/choo-location-electron/commit/5a28493e6a)] - add travis badge (Bret Comnes)
 - [[`3042c02fec`](https://github.com/hypermodules/choo-location-electron/commit/3042c02fec)] - Update README.md (Bret Comnes)
