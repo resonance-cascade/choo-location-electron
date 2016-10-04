@@ -6,6 +6,8 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 
 ## [2.0.1](https://github.com/hypermodules/choo-location-electron/releases/v2.0.1)
 
+### Changed
+
 - use more specific semver range for electron peer dependency
 
 [view diff](https://github.com/hypermodules/choo-location-electron/compare/v2.0.0...v2.0.1)
@@ -39,6 +41,8 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 - [[`272e36ff63`](https://github.com/hypermodules/choo-location-electron/commit/272e36ff63)] - chore(package): update dependencies (greenkeeperio-bot)
 
 ## [1.0.1](https://github.com/hypermodules/choo-location-electron/releases/v1.0.1)
+
+### Changed
 
 - update repo URL to reflect org change
 
