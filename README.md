@@ -1,8 +1,15 @@
 # choo-location-electron
 
+A [choo](https://github.com/yoshuawuyts/choo) subscription that fixes routing in electron when loading a url from disk.
+
 [![Build Status](https://travis-ci.org/hypermodules/choo-location-electron.svg?branch=master)](https://travis-ci.org/hypermodules/choo-location-electron)
 
-A [choo](https://github.com/yoshuawuyts/choo) subscription that fixes routing in electron when loading a url from disk.
+**WARNING: Doesn't work with choo 4 right now**
+
+See:
+
+- https://github.com/hypermodules/hyperamp/issues/68
+- https://github.com/yoshuawuyts/sheet-router/issues/72
 
 ### Why?
 
