@@ -26,7 +26,7 @@
   "homepage": "https://github.com/hypermodules/choo-location-electron#readme",
   "devDependencies": {
     "snazzy": "^5.0.0",
-    "standard": "^8.0.0"
+    "standard": "^9.0.0"
   },
   "peerDependencies": {
     "electron": "~1.4.0"
