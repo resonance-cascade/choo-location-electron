@@ -1,5 +1,7 @@
 # choo-location-electron
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/hypermodules/choo-location-electron.svg)](https://greenkeeper.io/)
+
 A [choo](https://github.com/yoshuawuyts/choo) subscription that fixes routing in electron when loading a url from disk.
 
 [![Build Status](https://travis-ci.org/hypermodules/choo-location-electron.svg?branch=master)](https://travis-ci.org/hypermodules/choo-location-electron)
